@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Add Numbers</string>
+    <string name="helptext">Enter two numbers</string>
+    <string name="sumButtonText">Add</string>
+    <string name="subtractButtonText">Subtract</string>
+    <string name="multiplyButtonText">Multiply</string>
+    <string name="divideButtonText">Divide</string>
+    <string name="parseFailText">Enter two numbers and try again</string>
+</resources>
